@@ -1,0 +1,49 @@
+{
+    "food": [
+        {
+            "id": 1,
+            "name": " camarones ",
+            "img": ""
+        },
+        {
+            "id": 2,
+            "name": " coditos ",
+            "img": ""
+        },
+        {
+            "id": 3,
+            "name": " hamburguesa ",
+            "img": ""
+        },
+        {
+            "id": 4,
+            "name": " hot_dogs ",
+            "img": ""
+        },
+        {
+            "id": 5,
+            "name": " lasagna ",
+            "img": ""
+        },
+        {
+            "id": 6,
+            "name": " pizza ",
+            "img": ""
+        },
+        {
+            "id": 7,
+            "name": " pollo ",
+            "img": ""
+        },
+        {
+            "id": 8,
+            "name": " spagetti ",
+            "img": ""
+        },
+        {
+            "id": 9,
+            "name": " tacos ",
+            "img": ""
+        }
+    ]
+}
