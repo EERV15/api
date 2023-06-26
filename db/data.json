@@ -3,47 +3,47 @@
         {
             "id": 1,
             "name": " camarones ",
-            "img": ""
+            "img": "https://raw.githubusercontent.com/EERV15/api/main/db/img/camarones"
         },
         {
             "id": 2,
             "name": " coditos ",
-            "img": ""
+            "img": "https://raw.githubusercontent.com/EERV15/api/main/db/img/coditos"
         },
         {
             "id": 3,
             "name": " hamburguesa ",
-            "img": ""
+            "img": "https://raw.githubusercontent.com/EERV15/api/main/db/img/hamburguesa"
         },
         {
             "id": 4,
             "name": " hot_dogs ",
-            "img": ""
+            "img": "https://raw.githubusercontent.com/EERV15/api/main/db/img/hot_dogs"
         },
         {
             "id": 5,
             "name": " lasagna ",
-            "img": ""
+            "img": "https://raw.githubusercontent.com/EERV15/api/main/db/img/lasagna"
         },
         {
             "id": 6,
             "name": " pizza ",
-            "img": ""
+            "img": "pizza"
         },
         {
             "id": 7,
             "name": " pollo ",
-            "img": ""
+            "img": "https://raw.githubusercontent.com/EERV15/api/main/db/img/pollo"
         },
         {
             "id": 8,
             "name": " spagetti ",
-            "img": ""
+            "img": "https://raw.githubusercontent.com/EERV15/api/main/db/img/spagetti"
         },
         {
             "id": 9,
             "name": " tacos ",
-            "img": ""
+            "img": "https://raw.githubusercontent.com/EERV15/api/main/db/img/tacos"
         }
     ]
 }
