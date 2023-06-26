@@ -3,47 +3,48 @@
         {
             "id": 1,
             "name": " camarones ",
-            "img": "https://raw.githubusercontent.com/EERV15/api/main/db/img/camarones"
+            "img": "https://raw.githubusercontent.com/EERV15/api/main/db/img/camarones.jpg
+            "
         },
         {
             "id": 2,
             "name": " coditos ",
-            "img": "https://raw.githubusercontent.com/EERV15/api/main/db/img/coditos"
+            "img": "https://raw.githubusercontent.com/EERV15/api/main/db/img/coditos.jpg"
         },
         {
             "id": 3,
             "name": " hamburguesa ",
-            "img": "https://raw.githubusercontent.com/EERV15/api/main/db/img/hamburguesa"
+            "img": "https://raw.githubusercontent.com/EERV15/api/main/db/img/hamburguesa.jpg"
         },
         {
             "id": 4,
             "name": " hot_dogs ",
-            "img": "https://raw.githubusercontent.com/EERV15/api/main/db/img/hot_dogs"
+            "img": "https://raw.githubusercontent.com/EERV15/api/main/db/img/hot_dogs.jpg"
         },
         {
             "id": 5,
             "name": " lasagna ",
-            "img": "https://raw.githubusercontent.com/EERV15/api/main/db/img/lasagna"
+            "img": "https://raw.githubusercontent.com/EERV15/api/main/db/img/lasagna.jpg"
         },
         {
             "id": 6,
             "name": " pizza ",
-            "img": "pizza"
+            "img": "https://raw.githubusercontent.com/EERV15/api/main/db/img/pizza.jpg"
         },
         {
             "id": 7,
             "name": " pollo ",
-            "img": "https://raw.githubusercontent.com/EERV15/api/main/db/img/pollo"
+            "img": "https://raw.githubusercontent.com/EERV15/api/main/db/img/pollo.jpg"
         },
         {
             "id": 8,
             "name": " spagetti ",
-            "img": "https://raw.githubusercontent.com/EERV15/api/main/db/img/spagetti"
+            "img": "https://raw.githubusercontent.com/EERV15/api/main/db/img/spagetti.jpg"
         },
         {
             "id": 9,
             "name": " tacos ",
-            "img": "https://raw.githubusercontent.com/EERV15/api/main/db/img/tacos"
+            "img": "https://raw.githubusercontent.com/EERV15/api/main/db/img/tacos.jpg"
         }
     ]
 }
